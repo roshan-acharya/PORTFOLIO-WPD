@@ -6,7 +6,7 @@
   align-items: flex-start;
   padding: 0 30px;
   background-color: #efe7ec;
-  background-image: url("../Images/photo.jpg");
+  background-image: url("/Images/photo.jpg");
   background-position: bottom right;
   background-size: contain;
   background-repeat: no-repeat;
@@ -45,4 +45,5 @@
 #hero > button > i {
   font-size: 20px;
 }
+
 
