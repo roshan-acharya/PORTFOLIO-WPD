@@ -1,6 +1,6 @@
 .section {
   margin-top: 20px;
-  padding: 15px;
+  padding: 45px;
 }
 .section_title {
   font-size: 10px;
@@ -19,4 +19,7 @@
   letter-spacing: 5px;
   margin-bottom: 20px;
   line-height: 1.8;
+}
+.about_skills {
+  padding: 35px;
 }
